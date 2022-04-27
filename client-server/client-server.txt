@@ -1,0 +1,10 @@
+1. client Frontend requests for page(html,css, others files...).
+2. server on which controlling req and responses backend which handles all requests
+from client 
+
+3. ip address and domain name 
+
+4.created server
+
+5.localhost is like domain in web which points back to loopback address 127.0.0.1  
+6.port numbers are doors into computer
